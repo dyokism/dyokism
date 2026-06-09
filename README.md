@@ -13,4 +13,5 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/dyokism?style=social">
   <img src="https://img.shields.io/github/watchers/dyokism/dyokism?style=social">
+  <img src="https://img.shields.io/badge/dynamic/json?style=social&label=repos&query=public_repos&url=https://api.github.com/users/dyokism">
 </p>
