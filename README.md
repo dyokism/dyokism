@@ -12,4 +12,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/dyokism?style=social">
+  <img src="https://img.shields.io/github/watchers/dyokism/dyokism?style=social">
 </p>
