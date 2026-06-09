@@ -21,6 +21,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/dyokism?style=flat&labelColor=fff&color=d0d0d0">
+  <img src="https://img.shields.io/github/stars/dyokism/DexForge?style=flat&labelColor=fff&color=d0d0d0">
   <img src="https://img.shields.io/badge/dynamic/json?style=flat&label=repos&query=public_repos&url=https://api.github.com/users/dyokism&color=d0d0d0&labelColor=fff">
 </p>
