@@ -7,7 +7,7 @@
 <p align="center">been breaking android devices since 2025, but somehow it works</p>
 
 <p align="center">
-  <a href="https://guns.lol/dyok">my socials</a>
+  <a href="https://dyok.dev">my socials</a>
 </p>
 
 <br>
