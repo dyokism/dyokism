@@ -7,7 +7,7 @@
 <p align="center">been breaking android devices since 2025, but somehow it works</p>
 
 <p align="center">
-  <a href="https://dyok.vercel.app">my socials</a>
+  <a href="https://guns.lol/dyok">contact me here</a>
 </p>
 
 <br>
