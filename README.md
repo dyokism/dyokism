@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=200&section=header&text=dyokism&fontSize=65&fontColor=ffffff" alt="banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=200&section=header&text=dyokism&fontSize=55&fontColor=ffffff" alt="banner">
 </p>
 
 <h3 align="center">welcome to my profile :)</h3>
