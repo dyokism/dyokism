@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=dyokism&fontSize=50" alt="banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=200&section=header&text=dyokism&fontSize=65&fontColor=ffffff" alt="banner">
 </p>
 
 <h3 align="center">welcome to my profile :)</h3>
@@ -12,15 +12,7 @@
 
 <br>
 
----
-
-<br>
-
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/dyokism/dyokism&label=profile%20views&countColor=d0d0d0&labelColor=fff">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/dyokism?style=social">
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat&label=repos&query=public_repos&url=https://api.github.com/users/dyokism&color=d0d0d0&labelColor=fff">
+	<img src="https://count.getloli.com/get/@dyokism?theme=original-new" alt="view counter"/>
+	<br><br>
 </p>
